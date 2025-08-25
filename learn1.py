@@ -1,1 +1,1 @@
-print("l want to lean git")
+print("l want to learn git")
